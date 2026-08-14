@@ -1,0 +1,66 @@
+$date
+	Thu Aug 13 21:22:10 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module demux_1to4_tb $end
+$var wire 1 ! a3 $end
+$var wire 1 " a2 $end
+$var wire 1 # a1 $end
+$var wire 1 $ a0 $end
+$var reg 1 % d $end
+$var reg 1 & s0 $end
+$var reg 1 ' s1 $end
+$scope module uut $end
+$var wire 1 $ a0 $end
+$var wire 1 # a1 $end
+$var wire 1 " a2 $end
+$var wire 1 ! a3 $end
+$var wire 1 % d $end
+$var wire 1 & s0 $end
+$var wire 1 ' s1 $end
+$var wire 1 ( w0 $end
+$var wire 1 ) w1 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1)
+1(
+0'
+0&
+1%
+1$
+0#
+0"
+0!
+$end
+#10000
+0$
+0)
+1#
+1'
+#20000
+0(
+1"
+1)
+0#
+1&
+0'
+#30000
+0"
+0)
+1!
+1'
+#40000
+0!
+0%
+#50000

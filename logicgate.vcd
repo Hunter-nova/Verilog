@@ -1,0 +1,64 @@
+$date
+	Fri Aug 14 14:20:52 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module logicgate_tb $end
+$var wire 1 ! y7 $end
+$var wire 1 " y6 $end
+$var wire 1 # y5 $end
+$var wire 1 $ y4 $end
+$var wire 1 % y3 $end
+$var wire 1 & y2 $end
+$var wire 1 ' y1 $end
+$var reg 1 ( a $end
+$var reg 1 ) b $end
+$scope module uut $end
+$var wire 1 ( a $end
+$var wire 1 ) b $end
+$var wire 1 ' y1 $end
+$var wire 1 & y2 $end
+$var wire 1 % y3 $end
+$var wire 1 $ y4 $end
+$var wire 1 # y5 $end
+$var wire 1 " y6 $end
+$var wire 1 ! y7 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0)
+0(
+0'
+0&
+1%
+1$
+1#
+0"
+1!
+$end
+#10000
+0#
+0!
+1&
+1"
+1)
+#20000
+0%
+0)
+1(
+#30000
+0$
+1!
+1'
+0"
+1)
+#40000
